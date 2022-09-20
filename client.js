@@ -9,9 +9,9 @@ let aliases={}
 
 
 let obj={
-        "dog":["d@g","d0g"],
-        "fox":["f0x","f@x"],
-        "frog":["fr@g","fr0g"]
+        "كافر":["kافر","كاfر"],
+        "قتل":["قت-ل"],
+        "اغتصاب":["اغtصاب","اغتص-اب"]
         }
 
 let list=Object.keys(obj)
